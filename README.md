@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
   
-  I am a student at Bit Academy <img src="https://media.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif" width="40"> from Kyrgyzstan.
+  I am a student at Bit Academy <img src="https://media.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif" width="40"> from Amsterdam.
   
   - :telescope: Beyond excited about becoming a Full-Stack Developer and build super engaging and interactive web pages.
 
