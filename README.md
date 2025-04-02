@@ -10,7 +10,7 @@
   </a>
 <p/>
 
-<h2 align="center"> Hi there 👋 <br/> My name is Omer! Nice to meet you 😊🤝 <h2>
+<h2 align="center"> Hi there!<br/> My name is Omer! Nice to meet you 🤝 <h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -19,19 +19,33 @@
 ---
 
 ### :man_technologist: About Me :
-  
-  I am a student at Bit Academy <img src="https://media.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif" width="40"> from Amsterdam.
-  
-  - :telescope: Beyond excited about becoming a Full-Stack Developer and build super engaging and interactive web pages.
 
-  - :seedling: I am currently into learning JavaScript, React and Tailwind.
+  I'm a software development student at Bit Academy <img src="https://media.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif" width="40"> in Amsterdam, working toward becoming a Full-Stack Developer. I’m especially passionate about front-end development and love building clean, interactive and accessible web applications.
 
-  - :zap: When I'm not programming, I love hanging out with my loved ones, watching movies, playing chess, going for a walk, or ice skating. I also have a huge passion for trying out different foods.
-
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-omerulanuluu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omerulanuluu/)
-  
 ---
 
+### :brain: Currently working with:
+
+  - Next.js 
+  - React
+  - TypeScript
+  - Tailwind CSS
+  - SCSS
+  - SASS
+___
+
+### :rocket: What I'm aiming for:
+
+ Becoming a full-stack developer who builds complete, real-world applications from the ground up,  both frontend and backend.
+___
+
+### :bulb: Hobbies:
+
+  When I'm not programming, I love hanging out with my loved ones, watching movies, playing chess, going for a walk, playing ping pong or ice skating. I also have a huge passion for trying out different foods.
+___
+
+### :mailbox_with_mail: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-omerulanuluu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omerulanuluu/)
+___
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
